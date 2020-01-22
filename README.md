@@ -1,6 +1,7 @@
 # DESAFIO ZAPAY
 
 **Resumo do Desafio**
+
 Elaborar uma API em Python que faça um web scraping da seguinte página:
 https://nerdstore.com.br/categoria/especiais/game-of-thrones/
 Esse web scraping, deve apresentar as seguintes informações através de um json:
@@ -8,20 +9,24 @@ Esse web scraping, deve apresentar as seguintes informações através de um jso
 2. Link da imagem do produto
 3. Preço
 
-Como a proposta não requer um código final funcionando, não há necessidade
-implementar os testes unitários. Entretanto, se implementar, será visto com
-bons olhos ;)
+> Como a proposta não requer um código final funcionando, não há necessidade
+> implementar os testes unitários. Entretanto, se implementar, será visto com
+> bons olhos ;)
+
+
 
 
 **Instalação de Dependencias:** 
 
 Instale as dependências com o comando: 
 
-pip install -r requirements.txt 
+`pip install -r requirements.txt`
 
 Ou 
 
-pipenv install -r requirements.txt 
+`pipenv install -r requirements.txt` 
+
+
 
 **Dificuldades:**
 
