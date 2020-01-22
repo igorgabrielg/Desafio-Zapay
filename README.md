@@ -36,7 +36,7 @@ Aprender os conceitos de:
 
 
 
-**Implementação: **
+**Implementação:**
 
 1° Passo foi estudar o código da página em busca de padrões: 
 - Tags que definiam unicamente os nomes do produto, valores, valores divididos e encontrar a imagem. 
